@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently studying and working on my own projects.
  
  🌱 I’m currently learning **Spring Boot, Rest API, Microservices**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
