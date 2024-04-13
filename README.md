@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=python,spring,mysql,mongodb,eclipse" /><br>
 </div>
 
-<br/>
+<!-- <br/>
 <hr/>
 
 <div align="center">
@@ -63,7 +63,7 @@
 
 <br/><br/>
 
-<hr/>
+<hr/> -->
 
 <!-- <br/>
 
